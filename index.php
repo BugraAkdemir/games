@@ -12,6 +12,7 @@
             display: inline-block;
         }
         .cart{
+            margin-top: 10px;
             background-color: aliceblue;
             font-size: 20px;
             color: black;
@@ -47,8 +48,22 @@
                 <p>Minecraft  1.21 İndir</p>
             </div>
             <div class="dowBtn">
-                <button><a href="">İndir</a></button>
+                <button><a href="/games/game/mc1.21.zip">İndir</a></button>
             </div>
         </div>
+
+        <div class="cart">
+            <div class="heads">
+                <h3>Gta Vice City</h3>
+            </div>
+            <div class="mtn">
+                <p>Gta Vice City İndir Bedava</p>
+            </div>
+            <div class="dowBtn">
+                <button><a href="/games/game/gtaVC.zip">İndir</a></button>
+        </div>
+    </div>
+
+        
     </div>
 </html>
